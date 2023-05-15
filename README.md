@@ -2,4 +2,4 @@
 
 | Author        |Link           |Description  |
 | ------------- |-------------| -----|
-| Dylan Dempsey | [New User ] |Python Script automated attack  |
+| Dylan Dempsey | [Simulated attack] |Python Script automated attack  |
